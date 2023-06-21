@@ -1,4 +1,4 @@
-/* App.css */
+
 .app {
   display: flex;
   flex-direction: column;
@@ -104,4 +104,3 @@ h1 {
 .add-movie-form button:hover {
   background-color: #ff7043;
 }
-/* App.css */

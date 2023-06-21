@@ -9,7 +9,7 @@ const App = () => {
   const [movies, setMovies] = useState([]);
 
   const handleFilterChange = (title, rate) => {
-    // Filtering logic here...
+  
   };
 
   const handleMovieAdd = (newMovie) => {

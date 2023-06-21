@@ -6,7 +6,7 @@ const MovieDetail = ({ movies }) => {
   const movie = movies.find((movie) => movie.id === parseInt(id));
 
   if (!movie) {
-    return <div>Loading...</div>; // Add loading state or error handling
+    return <div>Loading...</div>; 
   }
 
   return (
